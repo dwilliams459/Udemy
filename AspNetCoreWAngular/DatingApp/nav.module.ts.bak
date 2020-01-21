@@ -1,0 +1,24 @@
+zzzzzzzzzzzzzzzzzzzzzz
+// Angular Imports
+import { NgModule } from '@angular/core';
+
+// This Module's Components
+import { NavComponent } from './nav.component';
+import { FormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
+
+@NgModule({
+    imports: [
+        CommonModule,
+        FormsModule
+    ],
+    declarations: [
+        NavComponent,
+    ],
+    exports: [
+        NavComponent,
+    ]
+})
+export class NavModule {
+
+}

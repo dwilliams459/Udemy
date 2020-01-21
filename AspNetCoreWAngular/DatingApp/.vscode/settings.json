@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "ERPDB",
+            "dialect": "PostgreSQL",
+            "name": "PostgresERPDB",
+            "password": "Password1234",
+            "port": 5432,
+            "server": "localhost",
+            "username": "postgres"
+        },
+        {
+            "database": "C:\\Projects\\Sandbox\\Udemy\\AspNetCoreWAngular\\DatingApp\\DatingApp.API\\DatingApp.db",
+            "dialect": "SQLite",
+            "name": "DatingApp"
+        }
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#541A10",
+        "titleBar.activeBackground": "#762516",
+        "titleBar.activeForeground": "#FEF9F8"
+    }
+}

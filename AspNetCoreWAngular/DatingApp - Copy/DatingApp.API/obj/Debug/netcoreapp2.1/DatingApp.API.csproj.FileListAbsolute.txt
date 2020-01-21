@@ -1,0 +1,14 @@
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Projects\Sandbox\Udemy\AspNetCoreWAngular\DatingApp\datingapp.api\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
